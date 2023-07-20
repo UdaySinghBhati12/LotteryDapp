@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i-vishi/crowdsourcing-blockchain.git"
+    "url": ""
   },
-  "author": "i-vishi",
+  "author": "uday",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/i-vishi/crowdsourcing-blockchain/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/i-vishi/crowdsourcing-blockchain#readme",
+  "homepage": "",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
